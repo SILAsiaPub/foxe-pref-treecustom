@@ -1,1 +1,11 @@
-* *[1] *[2] @id @name @match @select
+# Generic first or second entry
+* *[1] *[2] 
+
+# XSLT
+* @id @name @match @select
+
+# LIFT
+entry lexical-unit/form/text
+
+# USX
+* @number
