@@ -9,4 +9,6 @@ While many editors allow you to see the following:<br/>
 It is more helpful to see this:<br/>
 ![image](https://user-images.githubusercontent.com/1505640/169719833-38be3477-8fb7-4a54-bcfd-0ca45a66acb2.png)
 
+## Wild usage
 
+Only \* wild can be used for elements. @\*[1] does not work. You have to give a name for a attribute.
